@@ -111,12 +111,6 @@
     <comp lib="1" loc="(360,70)" name="AND Gate">
       <a name="inputs" val="3"/>
     </comp>
-    <comp lib="1" loc="(370,230)" name="AND Gate">
-      <a name="inputs" val="3"/>
-    </comp>
-    <comp lib="1" loc="(370,300)" name="AND Gate">
-      <a name="inputs" val="3"/>
-    </comp>
     <comp lib="1" loc="(500,180)" name="OR Gate">
       <a name="inputs" val="4"/>
     </comp>
